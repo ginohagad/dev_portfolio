@@ -3,9 +3,9 @@ import devices from '../images/devices.png'
 
 export default function Hero() {
   return (
-    <div className="bg-gray-100 py-20 flex">
-      <img className="flex-auto h-64" src={devices} alt="Devices" />
-      <h3 className="flex-1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis architecto, cum accusamus aperiam beatae porro in nobis cupiditate iste optio? Enim iusto error accusantium provident amet nesciunt dolorem, animi laboriosam!</h3>
+    <div className="bg-gray-100 py-20 flex p-20">
+      <img className="flex-1 w-20 p-10" src={devices} alt="Devices" />
+      <h2 className="flex-1 text-xl p-10">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium quos expedita quasi similique assumenda minus.</h2>
     </div>
   )
 }
