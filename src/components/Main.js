@@ -1,16 +1,15 @@
 import React from 'react';
 import Intro from './Intro';
-
+import Hero from './Hero';
 
 
 const Main = (props) => {
 
 	return (
-		<div className="bg-gray-100">
-			<div className="container mx-auto py-10">
-				<Intro />
-			</div>
-		</div>
+		<>
+			<Intro />
+			<Hero />
+		</>
 	);
 }
 
