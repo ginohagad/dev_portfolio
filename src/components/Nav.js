@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-const Header = (props) => {
+const Nav = (props) => {
 
 	return (
 		<nav className="flex items-center justify-between flex-wrap bg-green-700 p-6">
@@ -17,6 +17,6 @@ const Header = (props) => {
 	);
 }
 
-export default Header;
+export default Nav;
 
 
