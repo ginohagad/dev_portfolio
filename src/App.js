@@ -9,7 +9,7 @@ const App = () => {
 			<Nav />
 			<Main />
 		</>
-	)
+	);
 }
 
 export default App;
