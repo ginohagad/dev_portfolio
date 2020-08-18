@@ -1,5 +1,5 @@
-import React from 'react'
-import devices from '../images/devices.png'
+import React from 'react';
+import devices from '../../images/devices.png';
 
 export default function Hero() {
   return (
