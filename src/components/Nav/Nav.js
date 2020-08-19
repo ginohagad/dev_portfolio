@@ -5,7 +5,7 @@ const Nav = (props) => {
 
 
 	return (
-		<nav className="flex bg-green-700 p-6">
+		<nav className="flex bg-green-700 py-6 px-20">
 			<div className="container mx-auto flex items-center text-green-300">
 				<a href="#" className="font-semibold text-xl tracking-tight hover:text-white">GinoHagad</a>
 			</div>
