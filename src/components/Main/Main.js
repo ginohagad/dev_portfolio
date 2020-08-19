@@ -4,6 +4,7 @@ import Hero from './Hero';
 import Projects from './Projects';
 
 
+
 const Main = (props) => {
 
 	return (
@@ -11,6 +12,9 @@ const Main = (props) => {
 			<Intro />
 			<Hero />
 			<Projects />
+			<div className="py-10 bg-gray-400">
+				<div className="text-center">Copyright Gino Hagad Portfolio &copy; 2020.</div>
+			</div>
 		</>
 	);
 }
