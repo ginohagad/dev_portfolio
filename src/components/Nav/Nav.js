@@ -1,8 +1,6 @@
 import React from 'react';
 
-
 const Nav = (props) => {
-
 
 	return (
 		<nav className="flex bg-green-700 py-6 px-10">
