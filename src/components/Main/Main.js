@@ -13,7 +13,7 @@ const Main = (props) => {
 			<Hero />
 			<Projects />
 			<div className="py-10 bg-gray-400">
-				<div className="text-center">Copyright Gino Hagad Portfolio &copy; 2020.</div>
+				<div className="text-center">Copyright Gino Hagad Portfolio &copy; 2022.</div>
 			</div>
 		</>
 	);
